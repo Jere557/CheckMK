@@ -1,8 +1,7 @@
 # CheckMK
 Documents I've written for my CheckMK Lab Raw Edition 
 
-
-# Installing CheckMK on RHEL 9
+# [Installing CheckMK on RHEL 9](https://github.com/Jere557/CheckMK/blob/main/Installing%20CheckMK%20on%20RHEL%209.docx)
 ﻿Author: Jeremiah Holland Date:10/24/2025 <br>
 <b>This guide lists out the steps on how to install and configure CheckMK on RHEL 9.  <br> <br>
 ```
@@ -25,3 +24,4 @@ Steps:
   Start the Site
   Log into Site 
   ```
+
